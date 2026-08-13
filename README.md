@@ -198,7 +198,7 @@ Ensemble methods for agricultural yield prediction in Bangladesh — where resea
 <img height="180" src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/main/assets/metrics.svg" alt="GitHub metrics"/>
 <img height="180" src="https://streak-stats.demolab.com?user=Asik-Ifthaker-Hamim&hide_border=true&background=08090c&stroke=1c2030&ring=22d3ee&fire=a3e635&currStreakLabel=22d3ee&sideLabels=8a93a6&currStreakNum=e7ecf3&sideNums=e7ecf3&dates=5a6272" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asik-Ifthaker-Hamim&bg_color=08090c&color=e7ecf3&line=22d3ee&point=a3e635&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph"/>
+<img src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/main/assets/activity.svg" width="98%" alt="Contribution activity"/>
 
 <img src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/output/snake.svg" width="98%" alt="Contribution graph snake animation"/>
 
