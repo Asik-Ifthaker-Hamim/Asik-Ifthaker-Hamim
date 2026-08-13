@@ -157,8 +157,8 @@ Ensemble methods for agricultural yield prediction in Bangladesh — where resea
 |:--|:--|:--|
 | **[Pulse](https://github.com/Asik-Ifthaker-Hamim/Pulse)** | Agentic clinical assistant — automates transcription analysis, SOAP note generation and prescription validation via a LangGraph state machine | `LangGraph` `LangChain` `GPT-4o` `FastAPI` `PostgreSQL` |
 | **[Smart Academic Research Assistant](https://github.com/Asik-Ifthaker-Hamim/Smart-Academic-Research-Assistant)** | RAG platform for academic literature — deep summarization, contextual Q&A across paper collections, citation-aware retrieval | `LangChain` `FAISS` `RAG` `FastAPI` `Streamlit` |
-| **[ECHO](https://github.com/Asik-Ifthaker-Hamim/ECHO)** | Hands-free voice assistant with wake-word activation and real-time speech recognition | `Python` `FastAPI` `React` `WebSocket` `OpenAI` |
-| **[Solara](https://github.com/Asik-Ifthaker-Hamim/Solara)** | Ensemble ML pipeline for crop yield prediction in Bangladesh — research code behind the *NobleMeta* paper | `Scikit-learn` `Pandas` `Flask` `Jupyter` |
+| **[ECHO](https://github.com/Asik-Ifthaker-Hamim/ECHO)** | Hands-free desktop voice assistant — wake-word activation, fully local speech recognition and synthesis | `Python` `FastAPI` `WebSocket` `React` `Electron` |
+| **[Solara](https://github.com/Asik-Ifthaker-Hamim/Solara)** | Ensemble ML for eggplant yield prediction — searches 240 voting ensembles, best reaches R² 0.9534 | `LightGBM` `Scikit-learn` `CatBoost` `Flask` |
 | **[Root-Finder Studio](https://github.com/Asik-Ifthaker-Hamim/AI_Enhanced_Web_Platform_for_Visualizing_Root_Finding_Algorithms)** | Interactive numerical-methods platform — six root-finding methods with live visualization and Gemini AI assistance | `React` `Gemini` `LangChain` `Chart.js` |
 
 <br/>
