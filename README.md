@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090c,30:a78bfa,65:22d3ee,100:a3e635&height=160&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/main/assets/banner.svg" width="100%" alt="Neural network banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=800&color=22D3EE&center=true&vCenter=true&width=900&height=68&letterSpacing=2px&repeat=false&lines=A.M.+ASIK+IFTHAKER+HAMIM" alt="A.M. Asik Ifthaker Hamim" />
 
@@ -195,14 +195,10 @@ Ensemble methods for agricultural yield prediction in Bangladesh — where resea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asik-Ifthaker-Hamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=08090c&title_color=22d3ee&text_color=8a93a6&icon_color=a78bfa&ring_color=a3e635" alt="GitHub Stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Asik-Ifthaker-Hamim&hide_border=true&background=08090c&stroke=1c2030&ring=22d3ee&fire=a3e635&currStreakLabel=22d3ee&sideLabels=8a93a6&currStreakNum=e7ecf3&sideNums=e7ecf3&dates=5a6272" alt="GitHub Streak"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asik-Ifthaker-Hamim&layout=compact&langs_count=8&hide_border=true&bg_color=08090c&title_color=22d3ee&text_color=8a93a6" alt="Top Languages"/>
+<img height="180" src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/main/assets/metrics.svg" alt="GitHub metrics"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Asik-Ifthaker-Hamim&hide_border=true&background=08090c&stroke=1c2030&ring=22d3ee&fire=a3e635&currStreakLabel=22d3ee&sideLabels=8a93a6&currStreakNum=e7ecf3&sideNums=e7ecf3&dates=5a6272" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asik-Ifthaker-Hamim&bg_color=08090c&color=e7ecf3&line=22d3ee&point=a3e635&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asik-Ifthaker-Hamim&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" alt="Trophies"/>
 
 <img src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/output/snake.svg" width="98%" alt="Contribution graph snake animation"/>
 
@@ -264,6 +260,6 @@ Ensemble methods for agricultural yield prediction in Bangladesh — where resea
 <a href="mailto:asikifthakerhamim75@gmail.com"><img src="https://img.shields.io/badge/RESEARCH_COLLABORATIONS-22d3ee?style=for-the-badge&labelColor=08090c" /></a>
 <a href="https://asik-ifthaker-hamim.netlify.app/"><img src="https://img.shields.io/badge/AI_ENGINEERING_ROLES-a78bfa?style=for-the-badge&labelColor=08090c" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3e635,30:22d3ee,65:a78bfa,100:08090c&height=120&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Asik-Ifthaker-Hamim/Asik-Ifthaker-Hamim/main/assets/footer.svg" width="100%" alt="" />
 
 </div>

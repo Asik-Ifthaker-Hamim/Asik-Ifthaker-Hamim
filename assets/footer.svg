@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a3e635"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .w { animation: drift 12s ease-in-out infinite alternate; }
+      .w2 { animation: drift2 9s ease-in-out infinite alternate; }
+      @keyframes drift { from { transform: translateX(-40px) } to { transform: translateX(40px) } }
+      @keyframes drift2 { from { transform: translateX(30px) } to { transform: translateX(-30px) } }
+    </style>
+  </defs>
+  <rect width="1200" height="130" fill="#08090c"/>
+  <path class="w2" d="M-60,70 C160,30 340,110 600,70 C860,30 1040,110 1260,70 L1260,130 L-60,130 Z"
+        fill="url(#w1)" opacity="0.18"/>
+  <path class="w" d="M-60,92 C180,52 380,128 620,92 C880,54 1060,128 1260,92 L1260,130 L-60,130 Z"
+        fill="url(#w1)" opacity="0.42"/>
+</svg>
